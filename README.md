@@ -1,24 +1,11 @@
-# README
+# CATS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is a barebones scaffold of an app. It was made as part of [The Firehose Project](http://www.thefirehoseproject.com/)
 
-Things you may want to cover:
+The most important piece of this app was the single PR that added a few columns
+to the cat table. It also added them to the private method cat_params on the controller and in the appropriate forms and views.
+This was important as cats' personality is dependent on their color and age--not just their name.
 
-* Ruby version
+**You can find the PR [here](https://github.com/danielpowell4/cats/pull/1).** It has since been closed.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![](https://media2.giphy.com/media/7ygVM8vWhlkEo/200w.gif)
